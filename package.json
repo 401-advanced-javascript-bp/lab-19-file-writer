@@ -1,0 +1,22 @@
+{
+  "name": "lab-19-file-writer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-bp/lab-19-file-writer.git"
+  },
+  "author": "Becky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-bp/lab-19-file-writer/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-bp/lab-19-file-writer#readme",
+  "dependencies": {
+    "@nmq/q": "^1.0.3"
+  }
+}
